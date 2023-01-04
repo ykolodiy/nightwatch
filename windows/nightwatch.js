@@ -1,1 +1,0 @@
-require("C:/Program Files/nodejs/node_modules/nightwatch/bin/runner.js");
